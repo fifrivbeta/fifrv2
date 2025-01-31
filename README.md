@@ -54,6 +54,6 @@ If you encounter any issues or have any questions, our support team is here to h
 
 Help Center: Visit our FAQ page for answers to common questions.
 Discord: Join our Discord server to connect with other players, share strategies, and get the latest updates.
-Email: Reach out to us at support@fifarival.com for any specific issues.
+
 License
 This project is licensed under the MIT License – see the LICENSE file for details.
